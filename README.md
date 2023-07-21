@@ -3,7 +3,7 @@
 <p>
 👑 I am Web Developer <br> 
 🖊️ Love to write code <br> 
-👀 Looking For and Internship
+👀 Looking For an Internship <br>
 👉 Currently focusing on advance backend development
 </p> 
 
