@@ -16,7 +16,7 @@ I’m a Front End Web developer. I started Learning Web development in 2021. I h
 ## 👨‍💻 Skills & Experiance: 
 ✅ React JS <br> 
 ✅ JavaScript <br>
-✅ HTML5 / CSS3 / SASS / Tailwind CSS / Bootstrap <br>
+✅ HTML5 / CSS3 / SASS / Tailwind CSS /ReactJS <br>
 
 
 
@@ -28,4 +28,4 @@ I’m a Front End Web developer. I started Learning Web development in 2021. I h
 
 
 ## 📧 For Business Inquiries 
-✅  ► shoaib10191@gmail.com
+✅  ► soyeb10191@gmail.com
