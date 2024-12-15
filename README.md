@@ -7,7 +7,7 @@
 
 
 ## 🚀 About Me
-I’m a Front End Web Application Developer. I started Learning Web development in the Covid Era. I have Worked on local marketplace projects where I designed the front-end part with HTML/CSS/SASS and React JS & Nextjs.  
+I’m a Front End Web Application Developer. I have Worked on local marketplace projects where I designed the front-end part with HTML/CSS/SASS and React JS & Nextjs.  
 
 ## 👨‍💻 Skills & Experiance: 
 ✅ React JS <br> 
