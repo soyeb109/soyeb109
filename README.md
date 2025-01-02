@@ -17,4 +17,4 @@ I’m a Front End Web Application Developer. I have Worked on local marketplace 
 ✅ HTML5 / CSS3 / SASS / Tailwind CSS <br>
 
 ## 📧 For Business Inquiries 
-✅  ► soyeb.islam118@gmail.com
+✅  ► soyeb10191@gmail.com
